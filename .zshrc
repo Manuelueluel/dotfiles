@@ -113,3 +113,5 @@ export PATH="$HOME/.jbang/bin:$PATH"
 source <(ng completion script)
 
 export EDITOR=nvim
+
+export ZKNOTES="$HOME/notes"
